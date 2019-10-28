@@ -2,23 +2,39 @@
 
 .navbar {
    font-family: 'Arvo', serif;
-   color: #fff;
+   background: #000000;
+   position: fixed;
+   z-index: 1;
+   width: 100%;
 }
 
-.btn-link {
-    text-align: right;
+.navbar-brand {
+    font-size: 30px;
+    color: #969FAA;
 }
+
+li {
+    display: inline-block;
+    padding: 5px;
+}
+
+/*.btn {
+  border: none;
+  color: #969FAA;
+  background-color: #000000;
+}
+*/
 
 /*--------------------------------welcome page*/
 
 .welcome-container {
-    height: 100vh;
+    height: 120vh;
     background: url('../images/battlerope.jpg') no-repeat center center fixed;
-    position: relative;
-    -webkit-background-size: cover;
+     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    position: relative;
 }
 
 .opaque-overlay {
@@ -29,4 +45,19 @@
     width: 100%;
     background-color: rgba(0, 0, 0, 0.5);
 
+}
+
+
+/*--------------------------------Jumbotron*/
+
+.jumbotron {
+    background-color: transparent;
+    color: #969FAA;
+    left: 100px;
+    top: 600px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
 }
