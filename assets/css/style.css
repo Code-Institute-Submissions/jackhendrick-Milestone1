@@ -1,6 +1,32 @@
-.navbar-brand {
+/*--------------------------------Navbar*/
+
+.navbar {
    font-family: 'Arvo', serif;
    color: #fff;
 }
 
+.btn-link {
+    text-align: right;
+}
 
+/*--------------------------------welcome page*/
+
+.welcome-container {
+    height: 100vh;
+    background: url('../images/battlerope.jpg') no-repeat center center fixed;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
