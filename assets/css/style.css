@@ -8,6 +8,7 @@ body {
    background: #000000;
    z-index: 1;
    width: 100%;
+   position: fixed;
 }
 
 .navbar-brand {
@@ -15,6 +16,7 @@ body {
     color: #969FAA;
 }
 
+/*
 button {
     display: inline-block;
     padding: 5 px;
@@ -22,8 +24,15 @@ button {
     color: #969FAA;
     border: none;
 }
+*/
 
-
+a {
+   display: inline-block;
+    padding: 5 px;
+    background-color: transparent;
+    color: #969FAA;
+    border: none;
+}
 
 /*--------------------------------welcome page*/
 
