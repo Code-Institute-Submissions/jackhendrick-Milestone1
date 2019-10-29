@@ -1,9 +1,11 @@
+body {
+    font-family: 'Arvo', serif;
+}
 /*--------------------------------Navbar*/
 
 .navbar {
-   font-family: 'Arvo', serif;
+
    background: #000000;
-   position: fixed;
    z-index: 1;
    width: 100%;
 }
@@ -13,17 +15,15 @@
     color: #969FAA;
 }
 
-li {
+button {
     display: inline-block;
-    padding: 5px;
+    padding: 5 px;
+    background-color: transparent;
+    color: #969FAA;
+    border: none;
 }
 
-/*.btn {
-  border: none;
-  color: #969FAA;
-  background-color: #000000;
-}
-*/
+
 
 /*--------------------------------welcome page*/
 
