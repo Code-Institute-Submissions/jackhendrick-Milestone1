@@ -52,21 +52,33 @@ a {
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.6);
 
 }
 
 
-/*--------------------------------Jumbotron*/
-
+/*--------------------------------Jumbotron
+.container-fluid {
+    padding-top: 70px;
+}
 .jumbotron {
     background-color: transparent;
     color: #969FAA;
     left: 100px;
     top: 600px;
-}
+} . */
 
 h1 {
     text-align: center;
     font-size: 100px;
+    padding-top: 150px;
+    color:#969FAA;
 }
+
+h2 {
+    text-align: center;
+    color:#969FAA;
+}
+
+}
+
