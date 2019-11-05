@@ -1,6 +1,8 @@
 body {
     font-family: 'Arvo', serif;
+
 }
+
 
 /*--------------------------------Navbar*/
 
@@ -29,7 +31,7 @@ a {
 /*--------------------------------welcome page*/
 
 .welcome-container {
-    height: 150vh;
+    height: 105vh;
     background: url('../images/battlerope.jpg') no-repeat center center fixed;
      -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -78,10 +80,13 @@ h2 {
     color:#969FAA;
 }
 /*--------------------------------Quotes*/
-.container.quotes-container {
+.container-wrapper {
     background-color: #525252;
 }
 
+.image {
+    text-align: center;
+}
 
 /*--------------------------------Footer*/
 
@@ -90,7 +95,7 @@ footer {
 }
 
 .a {
-    font-size: 32px;
+
 }
 
 .block-divider {
