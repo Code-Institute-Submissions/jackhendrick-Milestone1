@@ -17,15 +17,6 @@ body {
     color: #969FAA;
 }
 
-/*
-button {
-    display: inline-block;
-    padding: 5 px;
-    background-color: transparent;
-    color: #969FAA;
-    border: none;
-}
-*/
 
 a {
    display: inline-block;
@@ -36,11 +27,9 @@ a {
 }
 
 /*--------------------------------welcome page*/
-.container {
-    padding
-}
+
 .welcome-container {
-    height: 100vh;
+    height: 150vh;
     background: url('../images/battlerope.jpg') no-repeat center center fixed;
      -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -77,17 +66,6 @@ a {
 }
 
 
-/*--------------------------------Jumbotron
-.container-fluid {
-    padding-top: 70px;
-}
-.jumbotron {
-    background-color: transparent;
-    color: #969FAA;
-    left: 100px;
-    top: 600px;
-} . */
-
 h1 {
     text-align: center;
     font-size: 85px;
@@ -99,10 +77,18 @@ h2 {
     text-align: center;
     color:#969FAA;
 }
+/*--------------------------------Quotes*/
+.container.quotes-container {
+    background-color: #525252;
+}
+
 
 /*--------------------------------Footer*/
 
-#
+footer {
+    background-color: #000000;
+}
+
 .a {
     font-size: 32px;
 }
@@ -114,6 +100,3 @@ h2 {
     background-color: #969FAA;
 }
 
-.social {
-    box-align: left;
-}
