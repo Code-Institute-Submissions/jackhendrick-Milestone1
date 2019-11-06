@@ -2,8 +2,6 @@ body {
     font-family: 'Arvo', serif;
 
 }
-
-
 /*--------------------------------Navbar*/
 
 .navbar {
@@ -22,7 +20,7 @@ body {
 
 a {
    display: inline-block;
-    padding: 5 px;
+    padding: 5px;
     background-color: transparent;
     color: #969FAA;
     border: none;
@@ -86,7 +84,24 @@ h1 {
 h2 {
     text-align: center;
     color:#969FAA;
+    padding-top: 100px;
+    margin-left: 20px;
+
 }
+
+/*--------------------------------Jumbotron*/
+
+
+.lead {
+    color:rgb(237, 241, 243);
+}
+
+.display-4 {
+    color: rgb(237, 240, 243);
+}
+
+
+
 /*--------------------------------Quotes*/
 .container-wrapper {
     background-color: #8c8b8b;
@@ -103,17 +118,6 @@ h2 {
     background-color: rgb(136, 9, 9);
 }
 
-
-/*--------------------------------Footer*/
-
-.footer {
-    background-color: #000000;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-}
-
 /*--------------------------------About*/
 
 
@@ -126,4 +130,5 @@ h2 {
     background-size: cover;
     position: relative;
 }
+
 
