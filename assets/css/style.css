@@ -10,6 +10,8 @@ body {
    z-index: 1;
    width: 100%;
    position: absolute;
+   text-align: center;
+   color: #969FAA;
 }
 
 .navbar-brand {
@@ -24,6 +26,10 @@ a {
     background-color: transparent;
     color: #969FAA;
     border: none;
+}
+
+.navbar-toggler-icon {
+    color: #ccc;
 }
 
 /*--------------------------------welcome page*/
