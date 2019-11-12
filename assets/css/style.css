@@ -156,7 +156,7 @@ blockquote {
 .column {
   float: left;
   width: 33.33%;
-  padding: 5px;
+  padding: 2px;
 }
 
 /* Clear floats after image containers */
@@ -230,5 +230,32 @@ input[type=submit]:hover {
 
 
 
-/*--------------------------------Footer*/
+/*-------------------------------Classes*/
 
+.classes-container {
+    height: 100vh;
+    background: url('../images/classes.jpg') no-repeat center center fixed;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: relative;
+  
+}
+
+.timetable {
+    color:#969FAA;
+    text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+  border-right: 4px solid #ddd;
+  color: #969FAA;
+}
