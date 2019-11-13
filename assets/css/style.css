@@ -95,6 +95,10 @@ h2 {
     margin-left: 20px;
 }
 
+.h2, h2 {
+    font-size: 2rem;
+}
+
 
 /*--------------------------------Jumbotron*/
 
@@ -264,4 +268,13 @@ th, td {
   text-align: center;
   border-right: 4px solid #ddd;
   color: #969FAA;
+}
+
+/*-------------------------------Media Querys*/
+
+@media (min-width:768px) {
+    .map {
+        width: 200px;
+        height: 200px;
+    }
 }
