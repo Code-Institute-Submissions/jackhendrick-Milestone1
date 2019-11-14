@@ -21,8 +21,6 @@ body {
 
 
 a {
-   display: inline-block;
-    padding: 5px;
     background-color: transparent;
     color: #969FAA;
     border: none;
@@ -53,6 +51,8 @@ a {
     background-color: rgba(0, 0, 0, 0.6);
 
 }
+
+
 
 .team-container {
 
@@ -137,17 +137,25 @@ blockquote {
 
 
 .facilities-container {
-    height: 100vh;
+    height: 600vh;
     background: url('../images/about.jpg') no-repeat center center fixed;
      -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     position: relative;
+    color: #969FAA;
 }
 
 .about-us {
     padding-top: 100px;
+}
+
+
+
+.facilities {
+    text-align: center;
+    list-style: none;
 }
 
 /*--------------------------------Contact*/
