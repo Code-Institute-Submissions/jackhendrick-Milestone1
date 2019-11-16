@@ -171,6 +171,10 @@ blockquote {
     position: relative;
 }
 
+.opening-hours {
+    color: #969FAA;
+}
+
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
@@ -277,6 +281,10 @@ th, td {
   text-align: center;
   border-right: 4px solid #ddd;
   color: #969FAA;
+}
+
+.th {
+    font-size: 10px;
 }
 
 /*-------------------------------Modal-Form*/
