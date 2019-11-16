@@ -33,7 +33,7 @@ a {
 /*--------------------------------welcome page*/
 
 .welcome-container {
-    height: 105vh;
+    height: 50%;
     background: url('../images/battlerope.jpg') no-repeat center center fixed;
      -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -83,7 +83,7 @@ a {
 
 h1 {
     text-align: center;
-    font-size: 85px;
+    font-size: 60px;
     padding-top: 150px;
     color:#969FAA;
 }
@@ -171,9 +171,6 @@ blockquote {
     position: relative;
 }
 
-.opening-hours {
-    color: #969FAA;
-}
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
