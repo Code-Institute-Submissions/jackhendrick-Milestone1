@@ -279,6 +279,13 @@ th, td {
   color: #969FAA;
 }
 
+/*-------------------------------Modal-Form*/
+
+.far.fa-calendar-alt.fa-lg {
+ 
+    border: none;
+    color: #969FAA;
+}
 
 
 /*-------------------------------Media Querys*/
