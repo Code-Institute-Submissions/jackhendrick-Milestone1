@@ -223,21 +223,21 @@ input[type=submit]:hover {
 }
 
 .address {
-    padding-top: 100px;
+    padding-top: 10px;
     color: #969FAA;
 
 }
 
 .phone {
-    padding-top: 100px;
+    padding-top: 10px;
     color: #969FAA;
 
 }
 
 .email {
-    padding-top: 100px;
+    padding-top: 10px;
     color: #969FAA;
-    float: right
+    
 
 }
 
@@ -301,4 +301,10 @@ th, td {
         width: 200px;
         height: 200px;
     }
+}
+
+@media screen and (max-width: 320px) {
+  .map {
+    width: 200px;
+  }
 }
