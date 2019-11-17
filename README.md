@@ -22,3 +22,9 @@ giving all relative informationg without overloading the website with content.</
 
 <h2><b>Technologies</b></h2>
 
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Bootstrap (4.3.1)</li>
+</ul>
+
