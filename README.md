@@ -12,7 +12,7 @@ with a free consultatin to entice new customers, and a form to give us feedback 
 
 <h2><b>Demo</h2></b>
 
-<p>you can view a live demo of my website here</p>
+<p>you can view a live demo of my website here <a href="https://jackhendrick.github.io/Milestone1"> https://jackhendrick.github.io/Milestone1/</a></p>
 
 
 <h2><b>UX</b></h2>
