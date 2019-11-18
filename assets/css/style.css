@@ -245,6 +245,26 @@ input[type=submit]:hover {
 
 }
 
+input[type=text], select, textarea {
+    width: 80%;
+    padding: 1px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+.row {
+    align-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -10px;
+    margin-left: -10px;
+
+}
+
 
 /*--------------------------------Map*/
 
@@ -314,3 +334,4 @@ th, td {
     width: 200px;
   }
 }
+
