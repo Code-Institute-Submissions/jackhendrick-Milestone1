@@ -65,6 +65,6 @@ giving all relative informationg without overloading the website with content.</
   destination.</p>
 
   <h2>Deployment</h2>
-  <p>I built this website with Gitpod IDE which can be launched from any Github page.The deploted site will automatically update with every new commit
+  <p>I built this website with Gitpod IDE which can be launched from any Github page. The deployed site will automatically update with every new commit
      to the master branch</p>
 
