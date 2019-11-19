@@ -112,7 +112,7 @@ free download of they're images.</p>
 
 
 <p>The class timetable. I got from bootstrap, which I designed to fit my content.I also got the modal-form used on
- the welcome page and in the footer of every page from bootstrap too.</p>
+ the welcome page, the contact page and in the footer of every page from bootstrap too.</p>
 
  <p>Icons used throughout the website were all taken from <a href="https://fontawesome.com/icons?d=gallery">Font Awesome.</a>
 
