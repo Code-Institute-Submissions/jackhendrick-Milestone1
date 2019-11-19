@@ -76,3 +76,6 @@ giving all relative informationg without overloading the website with content.</
 <h3>Media</h3>
 <p>I used <a href="https://www.pexels.com/">Pexels</a> and <a href="https://unsplash.com/">Unsplash</a> for all images used in this website, they are both stock image librarys that allow 
 free download of the images.</p>
+
+<h3>Acknowledgements</h3>
+
