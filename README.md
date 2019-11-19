@@ -78,4 +78,9 @@ giving all relative informationg without overloading the website with content.</
 free download of the images.</p>
 
 <h3>Acknowledgements</h3>
+<p>The Design of using a full width background image and an overlay filter was inspired by the whiskey drop course work project.<p>
+
+<p>The class timetable, I got from bootstrap which I designed it to fit my content.</p>
+
+<p>I also got the modal-form used on the welcome page and in the footer of every page from bootstrap</p>
 
