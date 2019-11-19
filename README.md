@@ -37,10 +37,14 @@ the footer are links to the gyms social media.</p>
 
 <h3>Skeleton</h3>
 
-<p>I used a wireframe builder app called <a href="https://marvelapp.com/project/4450635/">Marvel</a> to build the first page
-of the website. </p>
+<p>I used a wireframe builder app called <a href="https://marvelapp.com/project/4450635/">Marvel</a> to build a rough sketch of first page
+of the website. I then added 3 more pages 'about' 'classes' and 'contact' which i put background images onto giving the 
+dark grey theme to the wbesite. As for the content I did not place this in my wireframe as it was bound to change with the growth of the website
+and changing images in and out to see what fits right. </p>
 
-<p></p>
+<h3>Surface</h3>
+<p>The dark grey theme you see in this website came from when i was building the wireframes. The background images with a slight tint filter
+give this website a rustic feel to it which I liked.</p>
 
 <h2>Features</h2>
 <p>This site features a pop-up modal form that i got from bootstrap so users can enter they're details and get in touch with the gym to arrange a trial.</p>
