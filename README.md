@@ -62,7 +62,8 @@ giving all relative informationg without overloading the website with content.</
   I have been continuosly testing this website during the whole design process, I have been checking the responsive design in my google
   chrome Developer tools, to see how the website responds on different mobile devices (iPhone, iPad, Samsung Galaxy), All links in
   this website are opened in a new tab using ( target="_blank" ), all links were tested by checking the all links bring me to the correct
-  destination. I have also been using <a href="https://validator.w3.org/#validate_by_input">W3C markup validator</a></p>
+  destination. I have also been using <a href="https://validator.w3.org/#validate_by_input">W3C markup validator, as a way to proof read my code 
+  for any errors.</a></p>
 
   <h2>Deployment</h2>
   <p>I built this website with Gitpod IDE which can be launched from any Github page. The deployed site will automatically update with every new commit
@@ -78,9 +79,12 @@ giving all relative informationg without overloading the website with content.</
 free download of the images.</p>
 
 <h3>Acknowledgements</h3>
-<p>The Design of using a full width background image and an overlay filter was inspired by the whiskey drop course work project.<p>
+<p>The Design of using a full width background image and an overlay filter was inspired by the whiskey drop course work project. The mobile
+   drop down menu from the same whiskey drop project was implement in my website, with some slight design alterations.<p>
 
-<p>The class timetable, I got from bootstrap which I designed it to fit my content.</p>
 
-<p>I also got the modal-form used on the welcome page and in the footer of every page from bootstrap</p>
+<p>The class timetable. I got from bootstrap, which I designed it to fit my content.I also got the modal-form used on
+ the welcome page and in the footer of every page from bootstrap too.</p>
+
+ <p>Icons used throughout the website were all taken from <a href="https://fontawesome.com/icons?d=gallery">Font Awesome.</a>
 
