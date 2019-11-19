@@ -68,3 +68,11 @@ giving all relative informationg without overloading the website with content.</
   <p>I built this website with Gitpod IDE which can be launched from any Github page. The deployed site will automatically update with every new commit
      to the master branch</p>
 
+<h2> Credits </h2>
+
+<h3>Content</h3>
+<p>The text used in describing what takes place in each fitness class was taken from wikipedia, All other content was written by me.</p> 
+
+<h3>Media</h3>
+<p>I used <a href="https://www.pexels.com/">Pexels</a> and <a href="https://unsplash.com/">Unsplash</a> for all images used in this website, they are both stock image librarys that allow 
+free download of the images.</p>
