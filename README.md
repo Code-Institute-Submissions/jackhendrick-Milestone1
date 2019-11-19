@@ -12,7 +12,7 @@ with a free consultatin to entice new customers, and a form to give us feedback 
 
 <h2><b>Demo</h2></b>
 
-<p>you can view a live demo of my website here <a href="https://jackhendrick.github.io/Milestone1"> https://jackhendrick.github.io/Milestone1/</a></p>
+<p>you can view a live demo of my website<a href="https://jackhendrick.github.io/Milestone1"> here.</a></p>
 
 
 <h2><b>UX</b></h2>
@@ -49,16 +49,19 @@ giving all relative informationg without overloading the website with content.</
 
 <h2>Testing</h2>
 <p>The two user scenario stories i have used have both been implemented in this project, I have answered all questions
- that arose from my user stories. For members of the gym when they go to the "Classes" page there is a list of classes available to customers
-  and a short explanation of what takes place in each class. As for the non-members scenario i have provided them with a lot of useful information,
+   that arose from my user stories. For members of the gym when they go to the "Classes" page there is a list of classes available to customers
+   and a short explanation of what takes place in each class.
+  
+  As for the non-members scenario i have provided them with a lot of useful information,
   to try and make they're decision of joining my gym as easy as possible. When they click onto the website the first thing they will see will 
   be our cheap prices. Next they will see they can fill out a quick form to arrange a consultation where they will be inducted into the gym.
-  Also on the Contact page i Provided information such as our address, phone number and email and a goolge map of our pin point location. 
-  Both members will be able to find our social media pages at the bottom of all our pages, which also has plenty of information on each of them.
 
-  I have been continuosly testing this website during the whole process, I have been checking the responsive design in my google
+  Also on the Contact page i Provided information such as our address, phone number and email and a goolge map of our location. 
+  Both members and non members alike will be able to find our social media pages at the bottom of all our pages, which also has plenty of information on each of them.
+
+  I have been continuosly testing this website during the whole design process, I have been checking the responsive design in my google
   chrome Developer tools, to see how the website responds on different mobile devices (iPhone, iPad, Samsung Galaxy), All links in
-  this website are opened in a new tab usingm( target="_blank" ), all links were tested by checking the all links bring me to the correct
+  this website are opened in a new tab using ( target="_blank" ), all links were tested by checking the all links bring me to the correct
   destination.</p>
 
   <h2>Deployment</h2>
