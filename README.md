@@ -17,8 +17,30 @@ with a free consultatin to entice new customers, and a form to give us feedback 
 
 <h2><b>UX</b></h2>
 
+<h3>Strategy</h3>
+
 <p>My goal for the design for this website was to keep it nice and simple to navigate, whilst looking nice and 
 giving all relative informationg without overloading the website with content.</p>
+
+<h3>Scope</h3>
+
+<p>As we are always looking for new members I wanted it to be easy for possible new customers to get in touch with us, on the welcome page 
+you will see I left a button where users can fill in a form and we will get back in touch with them, we also offered a free consultation
+to get entice first timers to join. you will also notice I put this consultation form in the footer at the bottom of every page. Also in 
+the footer are links to the gyms social media.</p>
+
+<h3>Structure</h3>
+
+<p>This website is for current members and non-members of the gym, for non-members I wanted to display key information about the gym, in regards
+    to what people look for when joining a gym, such as price, facilities, location and staff on hand to help with any first timers. 
+    once a member of the gym, I want users to be able to easily and quickly look up new schedules and classes taking place at the gym.</p>
+
+<h3>Skeleton</h3>
+
+<p>I used a wireframe builder app called <a href="https://marvelapp.com/project/4450635/">Marvel</a> to build the first page
+of the website. </p>
+
+<p></p>
 
 <h2>Features</h2>
 <p>This site features a pop-up modal form that i got from bootstrap so users can enter they're details and get in touch with the gym to arrange a trial.</p>
@@ -76,7 +98,7 @@ giving all relative informationg without overloading the website with content.</
 
 <h3>Media</h3>
 <p>I used <a href="https://www.pexels.com/">Pexels</a> and <a href="https://unsplash.com/">Unsplash</a> for all images used in this website, they are both stock image librarys that allow 
-free download of the images.</p>
+free download of they're images.</p>
 
 <h3>Acknowledgements</h3>
 <p>The Design of using a full width background image and an overlay filter was inspired by the whiskey drop course work project. The mobile
