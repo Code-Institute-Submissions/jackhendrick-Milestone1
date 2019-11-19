@@ -8,7 +8,7 @@ Milestone Project 1 - Responsive Web Design - Full Stack Software Development - 
 <p>The Purpose of this website is to attract new customers and also to retain current customers. 
 I kept the design simple and easy to navigate so as not to dishearten potential new customers. 
 members of our gym can log onto our website and find a class they may be interested in taking.
-with a free consultatin to entice new customers, and a form to give us feedback about how we're doing.</p>
+with a free consultation to entice new customers to join, and a form to give us feedback about how we're doing.</p>
 
 <h2><b>Demo</h2></b>
 
@@ -19,37 +19,39 @@ with a free consultatin to entice new customers, and a form to give us feedback 
 
 <h3>Strategy</h3>
 
-<p>My goal for the design for this website was to keep it nice and simple to navigate, whilst looking nice and 
-giving all relative informationg without overloading the website with content.</p>
+<p>My goal for the design of this website was to keep it simple and easy navigate, whilst looking nice and 
+giving all relative information without overloading the website with content.</p>
 
 <h3>Scope</h3>
 
-<p>As we are always looking for new members I wanted it to be easy for possible new customers to get in touch with us, on the welcome page 
-you will see I left a button where users can fill in a form and we will get back in touch with them, we also offered a free consultation
+<p>As we are always looking for new members I wanted it to be easy for possible new customers to get in touch with us. On the welcome page 
+you will see I left a button where users can fill in a form and submit it to us and we will get back in touch with them, we also offered a free consultation
 to get entice first timers to join. you will also notice I put this consultation form in the footer at the bottom of every page. Also in 
 the footer are links to the gyms social media.</p>
 
 <h3>Structure</h3>
 
 <p>This website is for current members and non-members of the gym, for non-members I wanted to display key information about the gym, in regards
-    to what people look for when joining a gym, such as price, facilities, location and staff on hand to help with any first timers. 
+    to what people look for when joining a gym, such as price, facilities, location and staff on hand to help to assist anyone who needs it. 
     once a member of the gym, I want users to be able to easily and quickly look up new schedules and classes taking place at the gym.</p>
 
 <h3>Skeleton</h3>
 
 <p>I used a wireframe builder app called <a href="https://marvelapp.com/project/4450635/">Marvel</a> to build a rough sketch of first page
 of the website. I then added 3 more pages 'about' 'classes' and 'contact' which i put background images onto giving the 
-dark grey theme to the wbesite. As for the content I did not place this in my wireframe as it was bound to change with the growth of the website
+dark grey theme to the wbesite. As for the content I did not place in the other 3 wireframe pages as it was bound to change with the growth of the website
 and changing images in and out to see what fits right. </p>
 
 <h3>Surface</h3>
-<p>The dark grey theme you see in this website came from when i was building the wireframes. The background images with a slight tint filter
-give this website a rustic feel to it which I liked.</p>
+
+<p>The dark grey theme you see in this website came from when I was building the wireframes. The background images with a slight tint filter
+give this website a rustic feel to it.</p>
 
 <h2>Features</h2>
+
 <p>This site features a pop-up modal form that i got from bootstrap so users can enter they're details and get in touch with the gym to arrange a trial.</p>
 <p>This site also features a google map to conviently show the location of the gym.</p>
-<p>It features a timetable to show our classes available, where and when they're on.</p>
+<p>It features a timetable to show what classes are available, where and when they're on.</p>
 
 <h2><b>User Stories</b></h2>
 
@@ -69,20 +71,20 @@ give this website a rustic feel to it which I liked.</p>
 <li><a href="https://getbootstrap.com/">Bootstrap (4.3.1)</a> - Bootstrap helps the page with  inital formatting and it contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation and other interface components.</li>
 <li><a href="https://www.gitpod.io">Gitpod IDE</a> - Gitpod is an online IDE which can be launched from any GitHub page, Which is very useful when pushing to github.</li>
 <li><a href="https://github.com/">Github</a> - This is where your website is deployed and also stores all your progress while working on your website</li>
-<li><a href="https://www.pexels.com/">Pexels</a> - This is a site i used to download images for this project</li>
-<li><a href="https://unsplash.com/">Unsplash</a> - This is another site i used to download images for this project</li>
+<li><a href="https://www.pexels.com/">Pexels</a> - This is a site I used to download images for this project</li>
+<li><a href="https://unsplash.com/">Unsplash</a> - This is another site I used to download images for this project</li>
 </ul>
 
 <h2>Testing</h2>
-<p>The two user scenario stories i have used have both been implemented in this project, I have answered all questions
+<p>The two user scenario stories I have used have both been implemented in this project, I have answered all questions
    that arose from my user stories. For members of the gym when they go to the "Classes" page there is a list of classes available to customers
    and a short explanation of what takes place in each class.
   
-  As for the non-members scenario i have provided them with a lot of useful information,
-  to try and make they're decision of joining my gym as easy as possible. When they click onto the website the first thing they will see will 
+  As for the non-members scenario I have provided them with a lot of useful information,
+  to try and make they're decision of joining the gym as easy as possible. When they click onto the website the first thing they will see will 
   be our cheap prices. Next they will see they can fill out a quick form to arrange a consultation where they will be inducted into the gym.
 
-  Also on the Contact page i Provided information such as our address, phone number and email and a goolge map of our location. 
+  Also on the Contact page I Provided information such as our address, phone number and email and a goolge map of our location. 
   Both members and non members alike will be able to find our social media pages at the bottom of all our pages, which also has plenty of information on each of them.
 
   I have been continuosly testing this website during the whole design process, I have been checking the responsive design in my google
@@ -109,7 +111,7 @@ free download of they're images.</p>
    drop down menu from the same whiskey drop project was implement in my website, with some slight design alterations.<p>
 
 
-<p>The class timetable. I got from bootstrap, which I designed it to fit my content.I also got the modal-form used on
+<p>The class timetable. I got from bootstrap, which I designed to fit my content.I also got the modal-form used on
  the welcome page and in the footer of every page from bootstrap too.</p>
 
  <p>Icons used throughout the website were all taken from <a href="https://fontawesome.com/icons?d=gallery">Font Awesome.</a>
