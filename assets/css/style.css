@@ -265,6 +265,12 @@ input[type=text], select, textarea {
 
 }
 
+.col-sm-6 {
+     padding-right: 0px;
+     padding-left: 0px;
+
+}
+
 
 /*--------------------------------Map*/
 
@@ -322,16 +328,10 @@ th, td {
 
 /*-------------------------------Media Querys*/
 
-@media (min-width:768px) {
-    .map {
-        width: 200px;
-        height: 200px;
+@media (max-width:760px) {
+    .row {
+       display: contents;
     }
-}
 
-@media screen and (max-width: 320px) {
-  .map {
-    width: 200px;
-  }
-}
+
 
